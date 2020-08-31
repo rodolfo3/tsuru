@@ -65,8 +65,6 @@ github.com/cezarsa/dockerclient v0.0.0-20190924055524-af5052a88081 h1:nERdkUtJ2v
 github.com/cezarsa/dockerclient v0.0.0-20190924055524-af5052a88081/go.mod h1:B3TZHoY3EjMaI/cEzZDGB2sRv7LVC/BdGvsRU43nllE=
 github.com/cezarsa/kontainer-engine v0.0.4-dev.0.20200420145904-d4e1271f77cf h1:U7hjDEKnfATn/AgWc4CEe3xwTLTWLVIO+Q8jSrIBi1I=
 github.com/cezarsa/kontainer-engine v0.0.4-dev.0.20200420145904-d4e1271f77cf/go.mod h1:3lpmRi6KzIKEOyLuwqrToRhK0L0Z7/PdNS08Bfi7fQg=
-github.com/cezarsa/machine v0.7.1-0.20190219165632-cdcfd549f935 h1:5zCYEyUB91XDlstHctPrAoWkD7j+Wfb5FRTppDEZF8k=
-github.com/cezarsa/machine v0.7.1-0.20190219165632-cdcfd549f935/go.mod h1:Dx5ygAngNW5Ztbxlb8h5h6WGQ8ceG7mKLgB8i3eS9P0=
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd h1:qMd81Ts1T2OTKmB4acZcyKaMtRnY5Y44NuXGX2GFJ1w=
 github.com/codahale/hdrhistogram v0.0.0-20161010025455-3a0bb77429bd/go.mod h1:sE/e/2PUdi/liOCUjSTXgM1o87ZssimdTWN964YiIeI=
@@ -471,6 +469,8 @@ github.com/rancher/types v0.0.0-20190827214052-704648244586/go.mod h1:9L7VLTwNVt
 github.com/rancher/wrangler v0.1.5 h1:HiXOeP6Kci2DK+e04D1g6INT77xAYpAr54zmTTe0Spk=
 github.com/rancher/wrangler v0.1.5/go.mod h1:EYP7cqpg42YqElaCm+U9ieSrGQKAXxUH5xsr+XGpWyE=
 github.com/remyoudompheng/bigfft v0.0.0-20170806203942-52369c62f446/go.mod h1:uYEyJGbgTkfkS4+E/PavXkNJcbFIpEtjt2B0KDQ5+9M=
+github.com/rodolfo3/machine v0.16.2-gcp-shared-support-123c7057 h1:BtPPMxbQ03ldk534RWSS+guQyE8+2anECrPFNd7nUXs=
+github.com/rodolfo3/machine v0.16.2-gcp-shared-support-123c7057/go.mod h1:YLQpxZqIA46CAlfMVKuPHoM4JOyiLZ4M0uBeS2ioF4o=
 github.com/rogpeppe/fastuuid v0.0.0-20150106093220-6724a57986af/go.mod h1:XWv6SoW27p1b0cqNHllgS5HIMJraePCO15w5zCzIWYg=
 github.com/rogpeppe/go-charset v0.0.0-20180617210344-2471d30d28b4/go.mod h1:qgYeAmZ5ZIpBWTGllZSQnw97Dj+woV0toclVaRGI8pc=
 github.com/russross/blackfriday v1.5.2/go.mod h1:JO/DiYxRf+HjHt06OyowR9PTA263kcR/rfWxYHBV53g=
